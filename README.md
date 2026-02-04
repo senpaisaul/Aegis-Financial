@@ -35,8 +35,9 @@
 *   **Tech**: Scikit-Learn pipelines running on FastAPI.
 
 ### 🎥 Demo
-[![Aegis Financial Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-> *Watch the full walkthrough on YouTube.*
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+> *If the video does not play, [download it here](assets/demo.mp4).*
 
 ### 📈 Stock Prediction Lab
 *   **Deep Learning**: Bidirectional LSTM networks with Attention mechanisms.
